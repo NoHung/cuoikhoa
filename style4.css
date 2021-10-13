@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li, a{
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+}
+.header{
+    margin: 15px 5%;
+}
+.pic{
+    width: 70px;
+    height: 70px;
+}
+.body{
+    margin: 2% 5% 5%;
+    font-family: "Montserrat", sans-serif;
+}
+.ok{
+    margin: 3% 0;
+}
+.dau{
+    font-weight: 775;
+}
+.first { 
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 10px;
+}
+.two { 
+    line-height: 24px;
+    font-size: 16px;
+}
+.mindx{
+    width: 35rem;
+}
+
+.footer{
+    padding: 28px 20px;
+    background-color: #e7e9eb;
+    font-family: 'Koh Santepheap', cursive;    
+}
+.contact{
+    font-family: 'proxima-nova', 'OpenSans', 'Pridi', 'NotoSans', 'NotoSansSC', 'NotoSansHebrew', 'NotoSansJapanese', 'Hiragino Kaku Gothic Pro', 'Yu Gothic Medium', 'Yu Gothic', Meiryo, 'source-han-sans-japanese', 'source-han-sans-korean', 'source-han-sans-simplified-c', Helvetica, Arial, sans-serif;
+}
+.info{
+    font-family: 'proxima-nova', 'OpenSans', 'Pridi', 'NotoSans', 'NotoSansSC', 'NotoSansHebrew', 'NotoSansJapanese', 'Hiragino Kaku Gothic Pro', 'Yu Gothic Medium', 'Yu Gothic', Meiryo, 'source-han-sans-japanese', 'source-han-sans-korean', 'source-han-sans-simplified-c', Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.fb{
+    width: 70px;
+    height: 70px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 50%;
+}
+.kk{
+    margin-left: 15px;
+}
+.one{   
+    color: rgba(12, 12, 12, 0.932);
+}
+.one:hover{
+    color: rgba(68, 119, 230, 0.986);
+}
